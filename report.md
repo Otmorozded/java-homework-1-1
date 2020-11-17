@@ -45,3 +45,9 @@ https://github.com/Otmorozded/java-homework-1-1/issues/3
 * c2bc778a-1cb9-46c6-b435-0489649d2a42
 
 * 2fb98b44-93e7-3bdd-a2ad-79347bfe4ad1
+
+## Тестирование производилось в следующем окружении:
+
+
+* Windows 10 Pro 19041.572
+* Java 11.0.9
