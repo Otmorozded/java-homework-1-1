@@ -10,6 +10,10 @@
 
 https://github.com/Otmorozded/java-homework-1-1/issues/1
 
+https://github.com/Otmorozded/java-homework-1-1/issues/2
+
+https://github.com/Otmorozded/java-homework-1-1/issues/3
+
 
 
 
