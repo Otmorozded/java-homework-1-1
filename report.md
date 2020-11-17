@@ -8,6 +8,8 @@
 
 В результате тестирования выявлены следующие дефекты:
 
+https://github.com/Otmorozded/java-homework-1-1/issues/1
+
 
 
 
